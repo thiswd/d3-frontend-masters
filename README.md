@@ -1,1 +1,1 @@
-# d3-frontend-masters
+Development of reusable charts for Frontend Masters D3 course
